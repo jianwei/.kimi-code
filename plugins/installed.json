@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "plugins": [
+    {
+      "id": "superpowers",
+      "root": "/Users/chenjianwei2/.kimi-code/plugins/managed/superpowers",
+      "source": "github",
+      "enabled": true,
+      "installedAt": "2026-07-19T07:55:43.000Z",
+      "updatedAt": "2026-07-19T07:59:05.414Z",
+      "originalSource": "https://github.com/obra/superpowers",
+      "github": {
+        "owner": "obra",
+        "repo": "superpowers",
+        "ref": {
+          "kind": "tag",
+          "value": "v6.1.1"
+        }
+      }
+    }
+  ]
+}
